@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter - [@zhujun](https://twitter.com/zhujun) Email - zhujun1980 at gmail dot com
 - 😄 Pronouns: he/him/他
 
-<br/>
+<hr/>
 
 <article>
   <h3>GitHub Stats</h3>
