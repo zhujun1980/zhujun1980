@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
+<article>
+  <h3>GitHub Stats</h3>
   <img align="left" alt="ZhuJun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zhujun1980&show_icons=true&hide_border=true" />
-
-</details>
+</article>
